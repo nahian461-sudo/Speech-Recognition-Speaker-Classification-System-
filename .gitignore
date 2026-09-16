@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+uploads/
+artifacts/*
+!artifacts/command_model/
+!artifacts/command_model/best_command_model.pt
+!artifacts/command_model/labels.json
+!artifacts/command_model_resplit/
+!artifacts/command_model_resplit/best_command_model.pt
+!artifacts/command_model_resplit/labels.json
+!artifacts/speaker_model/
+!artifacts/speaker_model/speaker_model.pkl
+data/custom_dataset/raw/

@@ -1,0 +1,8 @@
+Flask
+jiwer
+joblib
+librosa
+numpy
+openai-whisper
+scikit-learn
+torch
